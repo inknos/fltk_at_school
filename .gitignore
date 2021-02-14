@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# out file from fltk-config
+barcode_window
